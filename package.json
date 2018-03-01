@@ -1,0 +1,19 @@
+{
+  "name": "book_trainning",
+  "version": "1.0.0",
+  "description": "",
+  "main": "book.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@types/express": "^4.11.1",
+    "body-parser": "^1.18.2",
+    "express": "^4.16.2",
+    "knex": "^0.14.4",
+    "mysql": "^2.15.0",
+    "sqlite3": "^3.1.13"
+  }
+}
